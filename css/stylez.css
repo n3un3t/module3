@@ -1,0 +1,66 @@
+.head{
+    padding:0;
+}
+.navbar-brand{
+    padding-left: 12px;
+}
+.navbar-toggler{
+    margin-right: 12px;
+}
+.nav-item{
+    text-align: center;
+    padding: 5px 0 5px 0;
+}
+.nav-item>a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar{
+    background:darkgray;
+    padding-bottom: 0;
+}
+.navbar-nav{
+    background-color: white;
+    border: solid 2px black;
+}
+
+.hr{
+    margin:0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.text{
+    position: relative;
+    background-color: darkgrey;
+    height: 1000px; 
+    padding: 12px;
+    margin-bottom: 24px;
+}
+
+.back{
+    position: absolute;
+    bottom: 5px;
+    left: 0px;
+    right: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+#navbarContent{
+    margin-top: 5px;
+}
+
+#main{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#heading{
+    margin-bottom: 30px;
+}
+
